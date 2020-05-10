@@ -1,2 +1,2 @@
 # MyLearning
-my_learning
+个人学习的相关算法
